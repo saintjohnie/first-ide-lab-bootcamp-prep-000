@@ -504,7 +504,8 @@
   
   <br>
 
-  3. Run the tests with <code>learn</code> from your terminal.
+  3. Run the tests with <code>learn</code> from your terminal.learn 
+  4. 
   
   <br>
 
